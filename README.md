@@ -41,5 +41,10 @@ Passwordgenerator/
 ## Disclaimer
 This project is for educational purposes only. Stored passwords are not encrypted.
 
-## Author
-**Rahul Bhul**
+## 👥 Contributors
+
+This project was developed as a group project by:
+
+- **Rahul Bhul**
+- **Nishan Shrestha**
+- **Maniraj Thapa**

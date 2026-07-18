@@ -16,7 +16,7 @@ A simple Python CLI application to generate secure passwords, analyze password s
 ## Installation
 
 ```bash
-git clone https://github.com/itsrahul77/Passwordgenerator.git
+git clone https://github.com/itsrahul77/Password-Generator.git
 cd Passwordgenerator
 python main.py
 ```
